@@ -1,4 +1,4 @@
-# Portfolio
+# Portfólio
 
 Este repositório serve para guardar e disponibilizar alguns dos projetos feitos, quer para o meu percurso escolar, quer fora deste.
 
